@@ -1,5 +1,7 @@
 # Nuxt 3 Minimal Starter
 
+Pas oublier environnemnt dans cloudflare (NODE_VERSION)
+
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
 ## Setup
